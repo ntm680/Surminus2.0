@@ -11,6 +11,13 @@ dist/
 dist/*
 !dist/.keep
 
+# Source Code (PRIVATE - only SurMinus.user.js is public)
+src/
+build.js
+rollup.config.js
+stub.js
+launcher/
+
 # Misc
 .DS_Store
 .env
