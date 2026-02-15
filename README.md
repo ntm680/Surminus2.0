@@ -1,7 +1,7 @@
-# SurMinus v5.3
+# SurMinus v5.4
 
 **SurMinus** is an advanced cheat client for **Survev.io**, completely rewritten and optimized for performance, stealth, and stability.
-This version (v5.3) introduces Flashlight ESP, Bullet Trajectories, and major Launcher stability improvements.
+This version (v5.4) introduces Flashlight ESP, Bullet Trajectories, and major Launcher stability improvements.
 
 ---
 
