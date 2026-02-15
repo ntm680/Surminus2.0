@@ -1,11 +1,12 @@
 {
   "name": "surminus",
-  "version": "5.2",
+  "version": "5.3",
   "type": "module",
   "scripts": {
     "build": "node build.js",
     "dev": "node build.js dev",
     "release": "node build.js release",
+    "deploy": "node deploy.js",
     "publish": "node publish.js",
     "build:exe": "npm run build && copy dist\\SurMinus.user.js launcher\\SurMinus.user.js && cd launcher && npm install && npm run build",
     "format": "prettier --write ."

@@ -1,16 +1,20 @@
-# SurMinus v4.0
+# SurMinus v5.3
 
 **SurMinus** is an advanced cheat client for **Survev.io**, completely rewritten and optimized for performance, stealth, and stability.
-This version (v4.0) introduces major core improvements, including a new build system, real latency monitoring, and an advanced predictive melee system.
+This version (v5.3) introduces Flashlight ESP, Bullet Trajectories, and major Launcher stability improvements.
 
 ---
 
 ## 🌟 Key Features
 
-### ⚔️ Advanced Auto Melee (New in v4.0)
+### 🔦 Visuals (New in v5.3)
+- **Flashlight ESP**: Visualizes enemy aim direction and cones.
+- **Bullet Trajectory**: Predicts bullet path including wall bounces.
+- **Grenade Timer**: Shows explosion countdown and lethal range.
+
+### ⚔️ Advanced Auto Melee
 - **Predictive Lock**: Analyzes enemy velocity history to predict movement and land melee hits accurately.
-- **Adaptive Range**: Automatically adjusts engagement distance based on the target's speed.
-- **Hysteresis & Grace Period**: Prevents target loss when enemies briefly move out of range or behind obstacles.
+- **IOG Hybrid System**: Evasion, Strafe, and Body Center Targeting.
 - **Auto-Fire Integration**: Automatically attacks when a valid melee lock is acquired.
 
 ### 🎯 Aimbot "Savannah"
@@ -23,7 +27,8 @@ This version (v4.0) introduces major core improvements, including a new build sy
 - **Armor HUD**: Displays exact Helmet and Vest protection percentages on the local player.
 - **Clean ESP**: Optimized ESP lines, tracers, and skeletal rendering for better clarity.
 
-### 🛠️ Quality of Life
+### 🛠️ Stability & Quality of Life
+- **Launcher v1.0.3**: Single Instance Lock, Memory Optimization, GPU Fixes.
 - **Gun Overclock**: Configurable fire rate enhancements (Dual, Burst, etc.).
 - **Infinite Zoom**: Unlocked view distance (with scroll wheel support).
 - **Pan Hero**: Fixed logic for auto-blocking bullets with the Pan/Shield.
